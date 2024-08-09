@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-subudh1&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-subudh1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@aniketsubudh1" target="blank"><img src="https://img.shields.io/twitter/follow/@aniketsubudh1?logo=twitter&style=for-the-badge" alt="@aniketsubudh1" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 📫 How to reach me **aniketsubudhi00@gmail.com**
