@@ -1,29 +1,37 @@
-const fs = require('fs');
-const axios = require('axios');
+name: Update README
 
-async function updateReadme() {
-  const readmePath = './README.md';
-  let readmeContent = fs.readFileSync(readmePath, 'utf8');
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
-  // Fetch dynamic data
-  const username = 'aniket-subudh1';
-  const response = await axios.get(`https://api.github.com/users/${username}/repos`);
-  const repos = response.data;
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-  // Count total stars and forks
-  let stars = 0;
-  let forks = 0;
-  repos.forEach(repo => {
-    stars += repo.stargazers_count;
-    forks += repo.forks_count;
-  });
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-  // Replace placeholders in README
-  readmeContent = readmeContent.replace(/{{STARS}}/g, stars);
-  readmeContent = readmeContent.replace(/{{FORKS}}/g, forks);
+      - name: Install dependencies
+        run: |
+          npm install axios
 
-  fs.writeFileSync(readmePath, readmeContent, 'utf8');
-  console.log('README updated successfully');
-}
+      - name: Update README
+        run: |
+          node ./update-readme.js
 
-updateReadme();
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update dynamic content'
+          git push
