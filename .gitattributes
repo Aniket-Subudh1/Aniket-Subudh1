@@ -1,0 +1,6 @@
+*.html linguist-detectable=true
+*.js linguist-detectable=true
+*.css linguist-detectable=true
+*.md linguist-documentation
+/path/to/largefile.js linguist-generated=true
+/docs/* linguist-documentation
