@@ -14,7 +14,6 @@
 <a href="https://twitter.com/@aniketsubudh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aniketsubudh1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket-subudhi-36b385250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-subudhi-36b385250" height="30" width="40" /></a>
 <a href="https://instagram.com/aniket_subudhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket_subudhi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniketsubudhi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketsubudhi00" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/zXUwQRFt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/zXUwQRFt" height="30" width="40" /></a>
 </p>
 
