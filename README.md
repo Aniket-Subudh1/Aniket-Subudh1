@@ -77,6 +77,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-subudh1&show_icons=true&locale=en" alt="aniket-subudh1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-subudh1&" alt="aniket-subudh1" /></p>
-
-<p align="left">Total Stars: {{STARS}}</p>
-<p align="left">Total Forks: {{FORKS}}</p>
