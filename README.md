@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniket+Subudhi!;" />
 </h1>
 <h3 align="center">A passionate Web/App developer from India</h3>
-<img align="center" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="800" height="400" />
+<img align="center" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="500" height="300" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniket-subudh1&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-subudh1" /> </p>
 
