@@ -12,8 +12,7 @@
 <p align="center"> <a href="https://twitter.com/aniketsubudh1" target="blank"><img src="https://img.shields.io/twitter/follow/aniketsubudh1?logo=twitter&style=for-the-badge" alt="aniketsubudh1" /></a> </p>
 
 - 🌱 Building **Devsomeware**
-- 👨‍💻 All of my projects are available at [https://aniket-subudhi.netlify.app/](https://aniket-subudhi.netlify.app/)
-- 📫 How to reach me **aniketsubudhi00@gmail.com**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
