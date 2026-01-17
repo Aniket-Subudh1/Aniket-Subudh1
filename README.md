@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniket+Subudhi!;" />
 </h1>
-<h3 align="center">A passionate Web/App developer from India</h3>
+<h3 align="center">A developer from India</h3>
 <div align="center">
     <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="500" height="300" />
 </div>
@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://twitter.com/aniketsubudh1" target="blank"><img src="https://img.shields.io/twitter/follow/aniketsubudh1?logo=twitter&style=for-the-badge" alt="aniketsubudh1" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 Building **Devsomeware**
 - 👨‍💻 All of my projects are available at [https://aniket-subudhi.netlify.app/](https://aniket-subudhi.netlify.app/)
 - 📫 How to reach me **aniketsubudhi00@gmail.com**
 
