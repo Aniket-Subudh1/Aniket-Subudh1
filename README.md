@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### `> currently building` **[Devsomeware](https://github.com/aniket-subudh1)**
+### `> currently building` **[Devsomeware](https://www.devsomeware.com)**
 
 </div>
 
@@ -42,10 +42,10 @@
 <img src="https://skillicons.dev/icons?i=react,angular,tailwind,css&perline=2" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb&perline=2" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&perline=2" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=android,kotlin,reactnative,firebase&perline=2" />
+<img src="https://skillicons.dev/icons?i=android,kotlin,react,firebase&perline=2" />
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git&perline=2" />
@@ -55,7 +55,17 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=javascript,java,python,c,php,html,mysql,postman,figma,photoshop,blender,matlab" />
+<img src="https://skillicons.dev/icons?i=javascript,java,python,c,php,html,mongodb,mysql,postman,figma,photoshop,blender,matlab" />
+
+</div>
+
+---
+
+<h2 align="center">𝗧 𝗥 𝗢 𝗣 𝗛 𝗜 𝗘 𝗦</h2>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniket-subudh1&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -71,10 +81,6 @@
 <br/>
 
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aniket-subudh1&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniket-subudh1&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=15" />
 
 </div>
 
