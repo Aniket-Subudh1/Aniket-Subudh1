@@ -65,7 +65,9 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniket-subudh1&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies-backup" style="display:none;"/>
 
 </div>
 
@@ -82,6 +84,12 @@
 
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aniket-subudh1&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-subudh1&theme=tokyo-night&hide_border=true&radius=10" width="95%" alt="activity graph"/>
 </div>
 
 ---
@@ -104,3 +112,15 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+```
+
+What changed for the trophy section:
+
+- **Primary endpoint** stays as `github-profile-trophy.vercel.app` — it does work, just can be slow/intermittent due to high traffic
+- **Added a backup endpoint** from a volunteer mirror (`github-profile-trophy-liard-delta.vercel.app`) as a fallback
+- **Switched theme to `tokyonight`** to match the rest of the profile
+- **Added the Activity Graph** at the bottom of the stats section as a bonus — this one is very reliable and looks great
+
+If the trophy section still doesn't render for you, you can swap the primary URL to just use the volunteer mirror directly:
+```
+https://github-profile-trophy-liard-delta.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15
