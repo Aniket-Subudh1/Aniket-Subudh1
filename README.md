@@ -61,16 +61,6 @@
 
 ---
 
-<h2 align="center">𝗧 𝗥 𝗢 𝗣 𝗛 𝗜 𝗘 𝗦</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
-
-</div>
-
----
-
 <h2 align="center">𝗚 𝗜 𝗧 𝗛 𝗨 𝗕 &nbsp; 𝗦 𝗧 𝗔 𝗧 𝗦</h2>
 
 <div align="center">
@@ -88,6 +78,18 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-subudh1&theme=tokyo-night&hide_border=true&radius=10" width="95%" alt="activity graph"/>
+</div>
+
+---
+
+<h2 align="center">𝗖 𝗢 𝗡 𝗧 𝗥 𝗜 𝗕 𝗨 𝗧 𝗜 𝗢 𝗡 𝗦</h2>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket-subudh1/aniket-subudh1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket-subudh1/aniket-subudh1/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/aniket-subudh1/aniket-subudh1/output/github-snake-dark.svg" />
+</picture>
 </div>
 
 ---
@@ -110,8 +112,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
-```
-
-If the trophy section still gives you trouble, swap the URL to the volunteer mirror:
-```
-https://github-profile-trophy-liard-delta.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15
