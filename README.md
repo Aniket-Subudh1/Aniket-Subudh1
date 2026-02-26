@@ -39,7 +39,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,css&perline=2" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&perline=2" />
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&perline=2" />
@@ -55,7 +55,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=javascript,java,python,c,php,html,mongodb,mysql,postman,figma,photoshop,blender,matlab" />
+<img src="https://skillicons.dev/icons?i=javascript,java,python,c,php,html,css,mongodb,mysql,postman,figma,photoshop,blender,matlab" />
 
 </div>
 
@@ -66,8 +66,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="trophies-backup" style="display:none;"/>
 
 </div>
 
@@ -114,13 +112,6 @@
 </div>
 ```
 
-What changed for the trophy section:
-
-- **Primary endpoint** stays as `github-profile-trophy.vercel.app` — it does work, just can be slow/intermittent due to high traffic
-- **Added a backup endpoint** from a volunteer mirror (`github-profile-trophy-liard-delta.vercel.app`) as a fallback
-- **Switched theme to `tokyonight`** to match the rest of the profile
-- **Added the Activity Graph** at the bottom of the stats section as a bonus — this one is very reliable and looks great
-
-If the trophy section still doesn't render for you, you can swap the primary URL to just use the volunteer mirror directly:
+If the trophy section still gives you trouble, swap the URL to the volunteer mirror:
 ```
 https://github-profile-trophy-liard-delta.vercel.app/?username=aniket-subudh1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15
